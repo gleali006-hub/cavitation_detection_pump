@@ -1,4 +1,6 @@
 //final code that to employs the trained model and effectively do the anomaly detection on the esp32
+//the library that includes the model is in the .zip file "ei-pump-vibrations-predictor-arduino-1.0.2.zip" in the repository.
+//please import it in the arduino IDE with the "import library from zip file" feature before compiling the code
 
 #include <tesi_inferencing.h>
 #include <Wire.h>
