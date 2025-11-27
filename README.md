@@ -1115,7 +1115,7 @@ possible damage.
 
 The code is developed on Arduino IDE using Arduino’s programming
 language (a variation of C), and then deployed to the ESP32 with the
-same software.
+same software. You can find it in the file "anomaly_detection_esp32_code.ino" in the repository.
 
 8.  **COMPLETE PRODUCT HYPOTHESIS**
 
