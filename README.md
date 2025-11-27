@@ -1156,12 +1156,6 @@ The original file was processed with a custom-made Python script
 inserted in the special Knime node that adds in the middle of the
 dataset of disturbances, lasting 20% of the total data, similar to what
 a real cavitation event can be according to the literature.
-
-\+
-
-Image : Disturbances added to the vibration signal to create a fake
-cavitation event (x(t) original signal, y(t) noisy signal)
-
 The introduced disturbance contains both continuous noise in a specific
 band (conceivable with a cavitation event) and impulsive peaks of high
 intensity, all modulated with AM modulation. This allows to slowly
