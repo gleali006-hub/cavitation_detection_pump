@@ -591,9 +591,7 @@ off.</td>
 <td
 style="text-align: center;"><em><strong>8accenspoiblocca</strong></em></td>
 <td style="text-align: center;"><p>Start at low RPM (near minimum),
-accelerate to about mid-level, then the recording stops.Inizio
-modulo</p>
-<p>Fine modulo</p></td>
+accelerate to about mid-level, then the recording stops.
 </tr>
 <tr>
 <td style="text-align: center;"><em><strong>9completo</strong></em></td>
