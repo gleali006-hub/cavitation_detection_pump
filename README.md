@@ -7,8 +7,10 @@ TinyML system for firefighting pump anomaly detection using ESP32 &amp; ADXL345.
 <h1><b></b>FIREFIGHTING’S PUMPS CAVITATION DETECTOR</h1>
 
 <figure>
+  <div align="center">
 <img src="./images/media/image51.jpg"
   style="width:4in "/>
+  </div>
 </figure>
 
 **USEFUL LINKS:**
