@@ -921,10 +921,11 @@ style="width:6.10269in;height:1.92593in"
 alt="Image Containing Screenshot, Text, Diagram, Diagram AI-generated content may be incorrect." />
 
 <img src="./images/media/image35.png"
-style="width:5.97847in;height:2.54583in"
-alt="Image containing text, screenshot, software, Multimedia software AI-generated content may be incorrect." /><img src="./images/media/image34.png"
 style="width:6.69306in;height:4.56111in"
 alt="Image containing diagram AI-generated content may be incorrect." />
+<img src="./images/media/image34.png"
+style="width:5.97847in;height:2.54583in"
+alt="Image containing text, screenshot, software, Multimedia software AI-generated content may be incorrect." />
 
 Graph 5 A-B-C: overall comparison and detail between predicted and real
 value, on x,y,z axis
